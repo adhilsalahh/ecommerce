@@ -1,0 +1,153 @@
+.active{
+    font-size: 15px;   
+}
+.fasco{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn{
+    background-color: black;
+    color: #fff;
+}
+.image-1{
+    background-color: #E0E0E0;
+    width: 100%;
+    height: 606px;
+    border-radius: 10px;
+}
+#image-1{
+    width: 100%;
+    height: 606px;
+    border-radius: 10px;
+}
+.image-2{
+    background-color: #E0E0E0;
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;   
+}
+
+#image-2{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px; 
+
+}
+.image-3{
+    background-color:#E0E0E0 ;
+    width: 100%;
+    height: 150px;
+    border-radius: 5px;
+    
+
+}
+#image-3{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+}
+.image-4{
+    background-color: #E0E0E0;
+    width: 100%;
+    height: 606px;
+    border-radius: 10px;
+
+}
+#image-4{
+    width: 100%;
+    height: 606px;
+    border-radius: 10px;
+}
+.ultmait{
+    margin-bottom: 80px;
+    text-align: -webkit-center;
+    margin-top: 50px;
+}
+
+.p_tage{
+    width: 436px;
+    height: 70px;
+}
+.buy{
+    background-color: black;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+}
+.h2_deals{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.rounded{
+    background: #FFFFFF}
+
+.column1{
+        background-color: #feffff;
+        ;
+    }
+.image-10{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    padding: 20px;
+    height: 100px;
+
+}
+.maincolum{
+    box-shadow:5px 5px 5px 5px #eeeaea;
+    width: 300px;
+    
+}
+.span{
+    font-size: 10px;
+}
+.out{
+    color: red;
+}
+.column-div{
+    gap: 30px;
+
+}
+.column-div1{
+    gap: 30px;
+    margin-bottom: 30px;
+
+}
+.butn-wom{
+    border: none;
+    border-radius: 5px;
+    background-color: #eeeaea;
+    color: black;
+    
+}
+.butn-wom:hover{
+    background-color: black;
+    color: hsl(146, 78%, 96%);
+}
+.none{
+    text-decoration: none !important;
+    color: #fff;
+}
+
+.btn-view-div{
+    display: flex;
+    justify-content: center;
+}
+.view{
+    background-color: black;
+    color: #fff;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+
+
+}
+.img-inst{
+    height: 190px;
+       padding-top: 20px;
+       padding-bottom: 20px}
+
+
+.true{
+    background-color: black;
+}
+
